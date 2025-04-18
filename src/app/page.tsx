@@ -1,10 +1,10 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Experience from "@/components/Experience";
-import Projects from "@/components/MusicPlaylist";
-import Accomplishments from "@/components/Reading";
+import Projects from "@/components/Projects";
+import Accomplishments from "@/components/Accomplishments";
 import Map from "@/components/Map";
-import Connect from "@/components/WorkProcess";
+import Connect from "@/components/Connect";
 
 export default function Home() {
     return (
